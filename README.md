@@ -23,7 +23,7 @@ x = x * a;
 multiply(3)
 ~~~
 
-## 1- function
+## 1- Function
 syntax: function functionName(parameter) {};
 
 * trait: function that can use global variation. Function can access to any variable at global scope and change the value of that variable. Function can also has it own variable which only can be used within that function.
@@ -35,7 +35,7 @@ function add(a,b) {
 } 
 ```
 
-## 2- scope
+## 2- Scope
 variable in global scope can be accessed by all functions, but variable in internal scope can only accessed within that function.
 
 ## 3-Quokka
